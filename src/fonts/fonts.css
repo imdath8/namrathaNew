@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'moneta';
+  src: url('../fonts/moneta-sans-4.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'mukta';
+  src: url('../fonts/Mukta-Medium.ttf') format('truetype');
+}
